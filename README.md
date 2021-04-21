@@ -13,3 +13,4 @@ For our final project, we decided to look at each neighborhood in the city of Pi
 Datasets
 * 311 Data - https://data.wprdc.org/dataset/311-data
 * PLI Violations - https://data.wprdc.org/dataset/pittsburgh-pli-violations-report
+* Crime Blotter-https://data.wprdc.org/dataset/police-incident-blotter
